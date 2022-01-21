@@ -471,7 +471,6 @@ keyword不会被分词器解析，作为一个整体
 ![image-20220121004837449](https://mrlqq-oss.oss-cn-beijing.aliyuncs.com/20220121004837.png)
 
 
-
 # 集成SpringBoot
 
 > 创建空的spirngboot项目，添加不要的组件以及elasticsearch组件，需要注意的是，我们自己需要定义es的版本依赖，以保证es依赖与本地es的版本相同
